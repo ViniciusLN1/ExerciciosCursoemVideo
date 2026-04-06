@@ -12,3 +12,5 @@ for i in tupla:
         print(f'O numero {i} eh par')
     else:
         print(f'O numero {i} eh impar')
+
+
